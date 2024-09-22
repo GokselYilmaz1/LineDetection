@@ -16,6 +16,7 @@ In this project, I developed an algorithm using OpenCV to detect lane lines in a
 8. **Displaying the Image**: Displayed the original and edge-detected images.
 
 --TR
+
 🚗 **Otonom Araçlar İçin Yol Çizgisi Algılama Projesi** 🚗
 
 Bu projede, OpenCV kullanarak bir video üzerinde yol çizgilerini algılayan bir algoritma geliştirdim. İşte adımlar:
